@@ -5,7 +5,8 @@ Key findings include high schools having more victims than elementary schools, i
 ## Disclaimer  
 This repository is a **class project** created for coursework at the University of South Florida.  
 
-- It is **not a polished, complete, or fully working analysis** — in fact, parts of it may be broken, incomplete or flat out incorrect.  
+- It is **not a polished, complete, or fully working analysis** — in fact, parts of it may be broken, incomplete or flat out incorrect.
+- This repo is not as organized as I would like it to be.
 - It is **not intended for plug-and-play use** or production.  
 - The main purpose of this repo is to **showcase academic work and skills** for learning and resume/visibility purposes.  
 
