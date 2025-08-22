@@ -1,0 +1,40 @@
+Term,Estimate,Std. Error,z value,Pr(>|z|),Significance
+(Intercept),-1.038,1.132,-0.918,0.35885,
+School_LevelHigh,1.41,0.5749,2.453,0.01418,*
+School_LevelMiddle,-0.2919,1.137,-0.257,0.79744,
+School_LevelMulti-Level,15.08,926.6,0.016,0.98702,
+State_Gun_ControlLow,0.3841,0.6316,0.608,0.54313,
+State_Gun_ControlMedium,2.042,1.376,1.484,0.13779,
+School_AffiliationGang Member,19.89,11810,0.002,0.99866,
+School_AffiliationHitman,-17.56,17730,-0.001,0.99921,
+School_AffiliationIntimate Relationship,-3.093,1.251,-2.473,0.01341,*
+School_AffiliationNo Relation,1.549,0.7502,2.065,0.0389,*
+School_AffiliationNonstudent,19.42,5856,0.003,0.99735,
+School_AffiliationNonstudent Using Athletic Facilities/Attending Game,2.004,0.9202,2.177,0.02947,*
+School_AffiliationOther Staff,-1.071,1.494,-0.717,0.47342,
+School_AffiliationOther Student,18.98,12540,0.002,0.99879,
+School_AffiliationParent,-2.122,1.293,-1.641,0.10072,
+School_AffiliationPolice Officer/SRO,-18.64,9688,-0.002,0.99847,
+School_AffiliationRelative,-0.05992,0.9087,-0.066,0.94743,
+School_AffiliationRival School Student,0.2216,1.996,0.111,0.91157,
+School_AffiliationSecurity Guard,19.54,12490,0.002,0.99875,
+School_AffiliationStudent,0.6676,0.6849,0.975,0.32974,
+School_AffiliationTeacher,10.42,7762,0.001,0.99893,
+School_AffiliationUnknown,1.779,0.7444,2.389,0.01687,*
+Location_TypeInside School Building,-31.05,1312,-0.024,0.98112,
+Location_TypeOff School Property,-2.279,0.9437,-2.415,0.01575,*
+Location_TypeOutside on School Property,0.9008,0.7651,1.177,0.23902,
+Location_TypeSchool Bus,-2.916,1.161,-2.511,0.01203,*
+Weapon_TypeMultiple Handguns,0.3613,0.8724,0.414,0.67878,
+Weapon_TypeMultiple Rifles,-19.55,7097,-0.003,0.9978,
+Weapon_TypeMultiple Unknown,0.1524,0.9438,0.161,0.87174,
+Weapon_TypeOther,-3.769,1.279,-2.947,0.0032,**
+Weapon_TypeRifle,-1.72,0.5295,-3.249,0.00116,**
+Weapon_TypeShotgun,-1.092,0.684,-1.596,0.11046,
+Weapon_TypeUnknown,0.3162,0.5351,0.591,0.55453,
+School_LevelHigh:State_Gun_ControlLow,-0.8417,0.7374,-1.141,0.25374,
+School_LevelMiddle:State_Gun_ControlLow,0.4099,1.336,0.307,0.75907,
+School_LevelMulti-Level:State_Gun_ControlLow,-16.42,926.6,-0.018,0.98586,
+School_LevelHigh:State_Gun_ControlMedium,-1.987,1.475,-1.347,0.17801,
+School_LevelMiddle:State_Gun_ControlMedium,-3.08,1.958,-1.573,0.11569,
+School_LevelMulti-Level:State_Gun_ControlMedium,4.329,8581,0.001,0.9996,
